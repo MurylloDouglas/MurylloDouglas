@@ -60,13 +60,13 @@ Gosto de aprender na prática e transformar ideias em projetos reais.
 
 ## 🌐 Conecte-se comigo
 <p align="center">
-  <a href="https://github.com/SEU_USUARIO">
+  <a href="https://github.com/MurylloDouglas">
     <img src="https://img.shields.io/badge/GitHub-8B0000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/SEU_LINKEDIN">
     <img src="https://img.shields.io/badge/LinkedIn-B22222?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://www.instagram.com/SEU_INSTAGRAM">
+  <a href="https://https://www.instagram.com/muryllodouglas/">
     <img src="https://img.shields.io/badge/Instagram-FF0000?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 </p>
