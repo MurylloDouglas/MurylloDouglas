@@ -65,5 +65,7 @@ Minhas contribuições podem ser vistas diretamente no **gráfico de contribuiç
 ---
 
 <p align="center">
+  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="40"/>
+  <br>
   <b>“Código não é só lógica, é criação.”</b>
 </p>
