@@ -3,6 +3,10 @@
 </h1>
 
 <p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FF0000&center=true&vCenter=true&width=600&lines=Programador;Entusiasta+de+Tecnologia;Python+%7C+C%23+%7C+Arduino;Redes+e+Jogos" />
+</p>
+
+<p align="center">
   Programador • Entusiasta de Tecnologia • Python | C# | Arduino • Redes e Jogos
 </p>
 
@@ -39,7 +43,7 @@ Gosto de aprender na prática e transformar ideias em projetos reais.
 
 ---
 
-## 📊 Estatísticas do GitHub (Tema Vermelho)
+## 📊 Estatísticas do GitHub
 As estatísticas podem ser visualizadas diretamente na aba **Repositories** e **Insights** do meu perfil.
 
 ---
