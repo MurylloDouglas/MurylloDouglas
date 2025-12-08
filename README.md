@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FF0000&center=true&vCenter=true&width=500&lines=Programador;Entusiasta+de+Tecnologia;Python+%7C+C%23+%7C+Arduino;Redes+e+Jogos" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/robotframework/robotframework-original.svg" width="120"/>
 </p>
 
 <p align="center">
@@ -51,13 +51,6 @@ Gosto de aprender na prática e transformar ideias em projetos reais.
 
 ---
 
-## 🐍 Contribuições Animadas
-<p align="center">
-  <img src="https://github.com/MurylloDouglas/MurylloDouglas/blob/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
 ## 🌐 Conecte-se comigo
 <p align="center">
   <a href="https://github.com/MurylloDouglas">
@@ -71,7 +64,6 @@ Gosto de aprender na prática e transformar ideias em projetos reais.
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="40"/>
-  <br>
+  🤖 <br>
   <b>“Código não é só lógica, é criação.”</b>
 </p>
