@@ -43,7 +43,7 @@ Gosto de aprender na prática e transformar ideias em projetos reais.
 
 ---
 
-## 📊 Estatísticas do GitHub (Tema Vermelho)
+## 📊 Estatísticas do GitHub 
 <p align="center">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=MurylloDouglas&show_icons=true&theme=dark&icon_color=FF0000&text_color=FFFFFF&title_color=FF0000"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MurylloDouglas&layout=compact&theme=dark&title_color=FF0000&text_color=FFFFFF"/>
