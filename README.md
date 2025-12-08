@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/robotframework/robotframework-original.svg" width="120"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FF0000&center=true&vCenter=true&width=500&lines=Programador;Entusiasta+de+Tecnologia;Python+%7C+C%23+%7C+Arduino;Redes+e+Jogos" />
 </p>
 
 <p align="center">
@@ -43,20 +43,30 @@ Gosto de aprender na prática e transformar ideias em projetos reais.
 
 ---
 
-## 📊 Estatísticas do GitHub 
+## 📊 Estatísticas do GitHub (Tema Vermelho)
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=MurylloDouglas&show_icons=true&theme=dark&icon_color=FF0000&text_color=FFFFFF&title_color=FF0000"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MurylloDouglas&layout=compact&theme=dark&title_color=FF0000&text_color=FFFFFF"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=dark&icon_color=FF0000&text_color=FFFFFF&title_color=FF0000"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=dark&title_color=FF0000&text_color=FFFFFF"/>
+</p>
+
+---
+
+## 🐍 Contribuições Animadas
+<p align="center">
+  <img src="https://github.com/SEU_USUARIO/SEU_USUARIO/blob/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
 
 ## 🌐 Conecte-se comigo
 <p align="center">
-  <a href="https://github.com/MurylloDouglas">
+  <a href="https://github.com/SEU_USUARIO">
     <img src="https://img.shields.io/badge/GitHub-8B0000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="https://www.instagram.com/muryllodouglas/">
+  <a href="https://www.linkedin.com/in/SEU_LINKEDIN">
+    <img src="https://img.shields.io/badge/LinkedIn-B22222?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://www.instagram.com/SEU_INSTAGRAM">
     <img src="https://img.shields.io/badge/Instagram-FF0000?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 </p>
@@ -64,6 +74,7 @@ Gosto de aprender na prática e transformar ideias em projetos reais.
 ---
 
 <p align="center">
-  🤖 <br>
+  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="40"/>
+  <br>
   <b>“Código não é só lógica, é criação.”</b>
 </p>
