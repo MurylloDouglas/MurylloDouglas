@@ -17,17 +17,25 @@ Gosto de aprender na prática e transformar ideias em projetos reais.
 ## 🛠️ Tecnologias & Ferramentas
 
 ### 💻 Linguagens
-- Python  
-- C#
+<p>
+  <img src="https://img.shields.io/badge/Python-8B0000?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C%23-B22222?style=for-the-badge&logo=c-sharp&logoColor=white"/>
+</p>
 
 ### 🤖 Hardware & Robótica
-- Arduino
+<p>
+  <img src="https://img.shields.io/badge/Arduino-7B0000?style=for-the-badge&logo=arduino&logoColor=white"/>
+</p>
 
 ### 🎮 Desenvolvimento de Jogos
-- GameMaker
+<p>
+  <img src="https://img.shields.io/badge/GameMaker-3B0000?style=for-the-badge&logo=gamemaker&logoColor=white"/>
+</p>
 
 ### 🌐 Redes de Computadores
-- Cisco Packet Tracer
+<p>
+  <img src="https://img.shields.io/badge/Cisco_Packet_Tracer-990000?style=for-the-badge&logo=cisco&logoColor=white"/>
+</p>
 
 ---
 
@@ -43,11 +51,15 @@ Minhas contribuições podem ser vistas diretamente no **gráfico de contribuiç
 
 ## 🌐 Conecte-se comigo
 <p align="center">
-  🔗 GitHub: https://github.com/SEU_USUARIO  
-  <br>
-  📧 Email: <a href="mailto:SEU_EMAIL_AQUI">SEU_EMAIL_AQUI</a>  
-  <br>
-  📸 Instagram: https://www.instagram.com/SEU_INSTAGRAM
+  <a href="https://github.com/SEU_USUARIO">
+    <img src="https://img.shields.io/badge/GitHub-8B0000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="mailto:SEU_EMAIL_AQUI">
+    <img src="https://img.shields.io/badge/Email-B22222?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.instagram.com/SEU_INSTAGRAM">
+    <img src="https://img.shields.io/badge/Instagram-FF0000?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
 </p>
 
 ---
