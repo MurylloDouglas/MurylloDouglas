@@ -54,7 +54,7 @@ Minhas contribuições podem ser vistas diretamente no **gráfico de contribuiç
   <a href="https://github.com/MurylloDouglas">
     <img src="https://img.shields.io/badge/GitHub-8B0000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="mailto:muryllodouglas9@gmail.com">
+  <a href="https://mail.google.com/mail/?view=cm&to=muryllodouglas9@gmail.com">
     <img src="https://img.shields.io/badge/Email-B22222?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://www.instagram.com/muryllodouglas">
