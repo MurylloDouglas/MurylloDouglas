@@ -45,15 +45,15 @@ Gosto de aprender na prática e transformar ideias em projetos reais.
 
 ## 📊 Estatísticas do GitHub (Tema Vermelho)
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=dark&icon_color=FF0000&text_color=FFFFFF&title_color=FF0000"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=dark&title_color=FF0000&text_color=FFFFFF"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=MurylloDouglas&show_icons=true&theme=dark&icon_color=FF0000&text_color=FFFFFF&title_color=FF0000"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MurylloDouglas&layout=compact&theme=dark&title_color=FF0000&text_color=FFFFFF"/>
 </p>
 
 ---
 
 ## 🐍 Contribuições Animadas
 <p align="center">
-  <img src="https://github.com/SEU_USUARIO/SEU_USUARIO/blob/output/github-contribution-grid-snake.svg" />
+  <img src="https://github.com/MurylloDouglas/MurylloDouglas/blob/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
@@ -63,10 +63,7 @@ Gosto de aprender na prática e transformar ideias em projetos reais.
   <a href="https://github.com/MurylloDouglas">
     <img src="https://img.shields.io/badge/GitHub-8B0000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/SEU_LINKEDIN">
-    <img src="https://img.shields.io/badge/LinkedIn-B22222?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://https://www.instagram.com/muryllodouglas/">
+  <a href="https://www.instagram.com/muryllodouglas/">
     <img src="https://img.shields.io/badge/Instagram-FF0000?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 </p>
