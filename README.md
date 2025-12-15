@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  Programador • Entusiasta de Tecnologia • Python | C# | Arduino • Redes e Jogos
+  Programador • Entusiasta de Tecnologia • Python | C++ | Arduino • Redes e Jogos
 </p>
 
 ---
