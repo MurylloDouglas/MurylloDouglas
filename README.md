@@ -3,11 +3,11 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FF0000&center=true&vCenter=true&width=600&lines=Programador;Entusiasta+de+Tecnologia;Python+%7C+C%23+%7C+Arduino;Redes+e+Jogos" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FF0000&center=true&vCenter=true&width=600&lines=Programador;Entusiasta+de+Tecnologia;Python+%7C+Java+%7C+C%23+%7C+Arduino;Redes+e+Jogos" />
 </p>
 
 <p align="center">
-  Programador • Entusiasta de Tecnologia • Python | C# | Arduino • Redes e Jogos
+  Programador • Entusiasta de Tecnologia • Python | Java | C# | Arduino • Redes e Jogos
 </p>
 
 ---
@@ -23,6 +23,7 @@ Gosto de aprender na prática e transformar ideias em projetos reais.
 ### 💻 Linguagens
 <p>
   <img src="https://img.shields.io/badge/Python-8B0000?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-A52A2A?style=for-the-badge&logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/C%23-B22222?style=for-the-badge&logo=c-sharp&logoColor=white"/>
 </p>
 
